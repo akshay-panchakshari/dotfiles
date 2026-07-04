@@ -8,4 +8,6 @@ cd ~/Code/dotfiles
 ./scripts/bootstrap.sh
 ```
 
+## Ghostty terminal
 
+![alt text](image.png)
